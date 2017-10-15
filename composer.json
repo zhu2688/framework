@@ -1,0 +1,18 @@
+{
+    "name": "zhu2688/framework",
+    "description": "composer publish demo",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0",
+        "monolog/monolog": "^1.23"
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhu2688",
+            "email": "zhu2688@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
