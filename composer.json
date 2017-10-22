@@ -14,5 +14,8 @@
             "email": "zhu2688@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Soeasy\\Demo\\": "src" }
+    },
     "minimum-stability": "stable"
 }
