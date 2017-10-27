@@ -7,6 +7,7 @@
         "monolog/monolog": "^1.23",
         "guzzlehttp/guzzle": "~6.0",
         "catfan/Medoo": "^1.2",
+        "twig/twig":"~1.0",
         "doctrine/Cache": "^1.5",
         "monolog/monolog": "1.22.*"
     },
