@@ -9,7 +9,8 @@
         "catfan/Medoo": "^1.2",
         "twig/twig":"~1.0",
         "doctrine/Cache": "^1.5",
-        "monolog/monolog": "1.22.*"
+        "monolog/monolog": "1.22.*",
+        "cakephp/utility": "^3.5"
     },
     "license": "MIT",
     "authors": [
