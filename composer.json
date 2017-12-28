@@ -10,7 +10,8 @@
         "doctrine/Cache": "1.6.*",
         "monolog/monolog": "1.22.*",
         "cakephp/utility": "^3.5",
-        "cakephp/validation": "^3.5"
+        "cakephp/validation": "^3.5",
+        "ezyang/htmlpurifier": "^4.9"
     },
     "license": "MIT",
     "authors": [
