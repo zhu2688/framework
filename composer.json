@@ -4,13 +4,13 @@
     "type": "library",
     "require": {
         "php": ">=5.6.0",
-        "monolog/monolog": "^1.23",
         "guzzlehttp/guzzle": "~6.0",
         "catfan/Medoo": "^1.2",
         "twig/twig":"~1.0",
         "doctrine/Cache": "1.6.*",
         "monolog/monolog": "1.22.*",
-        "cakephp/utility": "^3.5"
+        "cakephp/utility": "^3.5",
+        "cakephp/validation": "^3.5"
     },
     "license": "MIT",
     "authors": [
