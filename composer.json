@@ -11,7 +11,8 @@
         "monolog/monolog": "1.22.*",
         "cakephp/utility": "^3.5",
         "cakephp/validation": "^3.5",
-        "ezyang/htmlpurifier": "^4.9"
+        "ezyang/htmlpurifier": "^4.9",
+        "chrisboulton/php-resque": "1.2"
     },
     "license": "MIT",
     "authors": [
