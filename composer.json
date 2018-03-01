@@ -12,7 +12,8 @@
         "cakephp/utility": "^3.5",
         "cakephp/validation": "^3.5",
         "ezyang/htmlpurifier": "^4.9",
-        "chrisboulton/php-resque": "1.2"
+        "chrisboulton/php-resque": "1.2",
+        "vlucas/valitron": "1.4.*"
     },
     "license": "MIT",
     "authors": [
