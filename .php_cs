@@ -15,7 +15,6 @@ $fixers = array(
     'no_useless_else' => true, //删除无用的else
     'no_useless_return' => true, //删除不用的return
     'no_singleline_whitespace_before_semicolons' => true, //禁止只有单行空格和分号的写法;
-    // 'self_accessor' => true, //在当前类中使用 self 代替类名;  risky规则
     'binary_operator_spaces' => true, //二进制操作符两端至少有一个空格;
     'no_empty_statement' => true, //多余的分号
     'no_empty_comment' => true, //删除空白行的注释

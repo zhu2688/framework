@@ -1,5 +1,5 @@
 preset:
-  - PSR1
+  - recommended
 risky:     true
 enabled:
   - no_empty_statement
