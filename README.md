@@ -15,6 +15,7 @@ composer require zhu2688/framework
 ```
 
 ## 库说明
+* php 5.6
 
 * [guzzle](https://github.com/guzzle/guzzle) HTTP 请求库
 * [Medoo](https://github.com/catfan/Medoo) 简单数据库
