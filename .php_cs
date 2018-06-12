@@ -15,7 +15,7 @@ $fixers = array(
     'no_useless_else' => true, //删除无用的else
     'no_useless_return' => true, //删除不用的return
     'no_singleline_whitespace_before_semicolons' => true, //禁止只有单行空格和分号的写法;
-    'self_accessor' => true, //在当前类中使用 self 代替类名;
+    // 'self_accessor' => true, //在当前类中使用 self 代替类名;  risky规则
     'binary_operator_spaces' => true, //二进制操作符两端至少有一个空格;
     'no_empty_statement' => true, //多余的分号
     'no_empty_comment' => true, //删除空白行的注释
@@ -27,7 +27,7 @@ $fixers = array(
     'standardize_not_equals' => true, //使用 <> 代替 !=;
     'no_trailing_comma_in_singleline_array' => true, //去掉单行数组最后一个元素的空格
     'lowercase_cast' => true,
-    'no_extra_blank_lines' => ['tokens' => ['break', 'continue', 'extra', 'return', 'throw', 'use']],
+    'no_extra_blank_lines' => ['tokens' => ['break', 'continue', 'extra', 'return', 'throw', 'use', 'parenthesis_brace_block', 'square_brace_block', 'curly_brace_block']],
     'short_scalar_cast' => true, //boolean -> bool integer->int
     // 'cast_spaces' => true, //变量和修饰符之间应该有一个空格
     // 'trim_array_spaces' => true, //数组去空格
@@ -36,7 +36,6 @@ $fixers = array(
     'whitespace_after_comma_in_array' => true,
     // 'blank_line_before_statement' => false //'break', 'continue', 'declare', 'return', 'throw', 'try' 结构返回前必须加一空行
    );
-
 return PhpCsFixer\Config::create()
     ->setRules($fixers)
     ->setFinder($finder)
