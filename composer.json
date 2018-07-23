@@ -13,8 +13,8 @@
         "cakephp/validation": "3.6.*",
         "ezyang/htmlpurifier": "4.10.*",
         "chrisboulton/php-resque": "1.2",
-        "vlucas/valitron": "1.4.*",
-        "phpmailer/phpmailer": "6.0.*"
+        "phpmailer/phpmailer": "6.0.*",
+        "vlucas/valitron": "1.4.*"
     },
     "license": "MIT",
     "authors": [
