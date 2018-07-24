@@ -27,3 +27,4 @@ composer require zhu2688/framework
 * [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) 字符过滤库
 * [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) 轻量消息队列
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
+* [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)邮件库
