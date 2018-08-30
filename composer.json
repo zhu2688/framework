@@ -14,7 +14,8 @@
         "ezyang/htmlpurifier": "4.10.*",
         "chrisboulton/php-resque": "1.2",
         "phpmailer/phpmailer": "6.0.*",
-        "vlucas/valitron": "1.4.*"
+        "vlucas/valitron": "1.4.*",
+        "nesbot/carbon": "^1.33"
     },
     "license": "MIT",
     "authors": [

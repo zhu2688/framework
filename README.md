@@ -28,3 +28,4 @@ composer require zhu2688/framework
 * [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) 轻量消息队列
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
 * [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)邮件库
+* [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) php日期时间处理利器
