@@ -15,17 +15,4 @@ composer require zhu2688/framework
 ```
 
 ## 库说明
-* php 5.6
-
-* [guzzle](https://github.com/guzzle/guzzle) HTTP 请求库
-* [Medoo](https://github.com/catfan/Medoo) 简单数据库
-* [twig](https://github.com/twigphp/Twig) 模板引擎
-* [doctrine/Cache](https://github.com/doctrine/cache) 缓存库
-* [monolog/monolog](https://github.com/Seldaek/monolog) 日志库
-* [cakephp/utility](https://github.com/cakephp/utility) 工具库
-* [cakephp/validation](https://github.com/cakephp/validation) 验证库
-* [ezyang/htmlpurifier](https://github.com/ezyang/htmlpurifier) 字符过滤库
-* [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) 轻量消息队列
-* [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
-* [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)邮件库
-* [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) php日期时间处理利器
+* php 7.2 php5的详见 [0.x分支](https://github.com/zhu2688/framework/tree/0.x)
