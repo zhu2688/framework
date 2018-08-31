@@ -16,3 +16,11 @@ composer require zhu2688/framework
 
 ## 库说明
 * 此分支是php 7.2版本  [php5 详见 0.x分支](https://github.com/zhu2688/framework/tree/0.x)
+
+* [guzzle](https://github.com/guzzle/guzzle) HTTP 请求库
+* [Medoo](https://github.com/catfan/Medoo) 简单数据库
+* [twig](https://github.com/twigphp/Twig) 模板引擎
+* [doctrine/Cache](https://github.com/doctrine/cache) 缓存库
+* [monolog/monolog](https://github.com/Seldaek/monolog) 日志库
+* [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) 轻量消息队列
+* [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
