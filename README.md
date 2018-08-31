@@ -1,8 +1,7 @@
 # Custom php composer
-[![StyleCI](https://github.styleci.io/repos/106982497/shield?branch=master)](https://github.com/zhu2688/framework)
-![PHP from Packagist](https://img.shields.io/packagist/php-v/zhu2688/framework.svg?style=flat-square) ![Travis](https://img.shields.io/travis/zhu2688/framework.svg?style=flat-square)
+[![StyleCI](https://github.styleci.io/repos/106982497/shield?branch=0.x)](https://github.com/zhu2688/framework)
+![PHP from Packagist](https://img.shields.io/packagist/php-v/zhu2688/framework/0.x-dev.svg?style=flat-square) ![Travis](https://img.shields.io/travis/zhu2688/framework.svg?style=flat-square)
 [![Packagist](https://img.shields.io/packagist/l/zhu2688/framework.svg?style=flat-square)](https://packagist.org/packages/zhu2688/framework)
-[![Latest Stable Version](http://img.shields.io/packagist/v/zhu2688/framework.svg?style=flat-square)](https://packagist.org/packages/zhu2688/framework)
 
 ## 简介
 
