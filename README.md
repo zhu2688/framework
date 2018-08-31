@@ -1,6 +1,6 @@
 # Custom php composer
 [![StyleCI](https://github.styleci.io/repos/106982497/shield?branch=master)](https://github.com/zhu2688/framework)
-![PHP from Packagist](https://img.shields.io/packagist/php-v/zhu2688/framework.svg?style=flat-square) ![Travis](https://img.shields.io/travis/zhu2688/framework.svg?style=flat-square)
+![PHP from Packagist](https://img.shields.io/packagist/php-v/zhu2688/framework.svg?style=flat-square)
 [![Packagist](https://img.shields.io/packagist/l/zhu2688/framework.svg?style=flat-square)](https://packagist.org/packages/zhu2688/framework)
 [![Latest Stable Version](http://img.shields.io/packagist/v/zhu2688/framework.svg?style=flat-square)](https://packagist.org/packages/zhu2688/framework)
 
@@ -15,4 +15,4 @@ composer require zhu2688/framework
 ```
 
 ## 库说明
-* php 7.2 php5的详见 [0.x分支](https://github.com/zhu2688/framework/tree/0.x)
+* 此分支是php 7.2版本  [php5 详见 0.x分支](https://github.com/zhu2688/framework/tree/0.x)

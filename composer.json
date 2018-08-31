@@ -3,7 +3,14 @@
     "description": "composer publish demo",
     "type": "library",
     "require": {
-        "php": ">=7.2.0"
+        "php": ">=7.2.0",
+        "guzzlehttp/guzzle": "6.3.*",
+        "catfan/Medoo": "1.5.*",
+        "twig/twig":"~2.0",
+        "doctrine/Cache": "1.8.*",
+        "monolog/monolog": "1.23.*",
+        "chrisboulton/php-resque": "1.2",
+        "vlucas/valitron": "1.4.*",
     },
     "license": "MIT",
     "authors": [
