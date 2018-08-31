@@ -10,7 +10,7 @@
         "doctrine/Cache": "1.8.*",
         "monolog/monolog": "1.23.*",
         "chrisboulton/php-resque": "1.2",
-        "vlucas/valitron": "1.4.*",
+        "vlucas/valitron": "1.4.*"
     },
     "license": "MIT",
     "authors": [
