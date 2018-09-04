@@ -10,7 +10,7 @@
 ## 使用
 
 ```
-composer require zhu2688/framework
+composer require zhu2688/framework ~0.1
 ```
 
 ## 库说明
