@@ -31,4 +31,8 @@
     <!--  返回值为布尔型而以'getX()'格式命名的方法改写成'isX()' 或者 'hasX()'-->
     <rule ref="rulesets/naming.xml/ConstantNamingConventions" />
     <!--  类/接口常量必须用大写字母定义-->
+    <rule ref="rulesets/unusedcode.xml/UnusedLocalVariable" />
+    <!--   存在已声明或赋值的局部变量，但是却未使用-->
+    <rule ref="rulesets/unusedcode.xml/UnusedPrivateField" />
+    <!--  存在已声明或赋值的局部变量，但是却未使用-->
 </ruleset>
