@@ -1,26 +1,26 @@
 {
-    "name": "zhu2688/framework",
-    "description": "composer publish demo",
-    "type": "library",
-    "require": {
-        "php": ">=7.2.0",
-        "guzzlehttp/guzzle": "6.3.*",
-        "catfan/Medoo": "1.5.*",
-        "twig/twig":"~2.0",
-        "doctrine/Cache": "1.8.*",
-        "monolog/monolog": "1.23.*",
-        "chrisboulton/php-resque": "1.2",
-        "vlucas/valitron": "1.4.*"
-    },
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "zhu2688",
-            "email": "zhu2688@gmail.com"
-        }
-    ],
-    "autoload": {
-        "psr-4": { "Soeasy\\Demo\\": "src" }
-    },
-    "minimum-stability": "stable"
+  "name": "zhu2688/framework",
+  "description": "composer publish demo",
+  "type": "library",
+  "require": {
+    "php": ">=7.2.0",
+    "guzzlehttp/guzzle": "6.3.*",
+    "catfan/Medoo": "1.6.*",
+    "twig/twig": "~2.0",
+    "doctrine/Cache": "1.8.*",
+    "monolog/monolog": "1.24.*",
+    "chrisboulton/php-resque": "1.2",
+    "vlucas/valitron": "1.4.*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "zhu2688",
+      "email": "zhu2688@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "Soeasy\\Demo\\": "src" }
+  },
+  "minimum-stability": "stable"
 }
