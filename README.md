@@ -24,3 +24,4 @@ composer require zhu2688/framework
 * [monolog/monolog](https://github.com/Seldaek/monolog) 日志库
 * [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) 轻量消息队列
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
+* [nesbot/carbon](https://github.com/briannesbitt/Carbon)时间处理类
