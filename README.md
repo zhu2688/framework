@@ -22,6 +22,6 @@ composer require zhu2688/framework
 * [twig](https://github.com/twigphp/Twig) 模板引擎
 * [doctrine/Cache](https://github.com/doctrine/cache) 缓存库
 * [monolog/monolog](https://github.com/Seldaek/monolog) 日志库
-* [chrisboulton/php-resque](https://github.com/chrisboulton/php-resque) 轻量消息队列
+* [resque/php-resque](https://github.com/resque/php-resque) 轻量消息队列
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
 * [nesbot/carbon](https://github.com/briannesbitt/Carbon)时间处理类
