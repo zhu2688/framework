@@ -11,7 +11,8 @@
     "monolog/monolog": "1.24.*",
     "resque/php-resque": "1.3.*",
     "vlucas/valitron": "1.4.*",
-    "nesbot/carbon": "2.10.*"
+    "nesbot/carbon": "2.10.*",
+    "lodash-php/lodash-php": "0.0.*"
   },
   "license": "MIT",
   "authors": [

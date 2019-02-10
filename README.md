@@ -25,3 +25,4 @@ composer require zhu2688/framework
 * [resque/php-resque](https://github.com/resque/php-resque) 轻量消息队列
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
 * [nesbot/carbon](https://github.com/briannesbitt/Carbon)时间处理类
+* [lodash-php/lodash-php](https://github.com/lodash-php/lodash-php) php7的工具库(模仿javascript的Loadsh)
