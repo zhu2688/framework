@@ -26,3 +26,4 @@ composer require zhu2688/framework
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
 * [nesbot/carbon](https://github.com/briannesbitt/Carbon)时间处理类
 * [lodash-php/lodash-php](https://github.com/lodash-php/lodash-php) php7的工具库(模仿javascript的Loadsh)
+* [maxmind-db/reader](https://github.com/maxmind/MaxMind-DB-Reader-php) php读取maxMind DB库
