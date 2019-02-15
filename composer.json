@@ -13,6 +13,7 @@
     "vlucas/valitron": "1.4.*",
     "nesbot/carbon": "2.10.*",
     "maxmind-db/reader": "1.4.*",
+    "mandrill/mandrill": "1.0.*",
     "lodash-php/lodash-php": "0.0.*"
   },
   "license": "MIT",
