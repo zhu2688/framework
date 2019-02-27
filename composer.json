@@ -5,9 +5,9 @@
   "require": {
     "php": ">=7.2.0",
     "guzzlehttp/guzzle": "6.3.*",
-    "catfan/Medoo": "1.6.*",
+    "catfan/medoo": "1.6.*",
     "twig/twig": "~2.0",
-    "doctrine/Cache": "1.8.*",
+    "doctrine/cache": "1.8.*",
     "monolog/monolog": "1.24.*",
     "resque/php-resque": "1.3.*",
     "vlucas/valitron": "1.4.*",
