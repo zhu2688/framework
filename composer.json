@@ -5,9 +5,9 @@
   "require": {
     "php": ">=5.6.0",
     "guzzlehttp/guzzle": "6.3.*",
-    "catfan/Medoo": "1.6.*",
+    "catfan/medoo": "1.6.*",
     "twig/twig": "~1.0",
-    "doctrine/Cache": "1.6.*",
+    "doctrine/cache": "1.6.*",
     "monolog/monolog": "1.24.*",
     "cakephp/utility": "3.6.*",
     "cakephp/validation": "3.6.*",
