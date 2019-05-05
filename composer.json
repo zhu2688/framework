@@ -16,7 +16,9 @@
     "maxmind-db/reader": "1.4.*",
     "mandrill/mandrill": "1.0.*",
     "lodash-php/lodash-php": "0.0.*",
-    "gregwar/image": "2.0.*",
+    "gregwar/image": "2.0.*"
+  },
+  "require-dev": {
     "filp/whoops": "2.3.*"
   },
   "license": "MIT",
