@@ -17,10 +17,10 @@
     "mandrill/mandrill": "1.0.*",
     "lodash-php/lodash-php": "0.0.*",
     "gregwar/image": "2.0.*",
-    "filp/whoops": "2.4.*"
+    "filp/whoops": "2.5.*"
   },
   "require-dev": {
-    "filp/whoops": "2.4.*"
+    "filp/whoops": "2.5.*"
   },
   "license": "MIT",
   "authors": [
