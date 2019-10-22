@@ -7,7 +7,7 @@
     "ext-yaf": "*",
     "guzzlehttp/guzzle": "6.3.*",
     "catfan/medoo": "1.7.*",
-    "twig/twig": "2.11.*",
+    "twig/twig": "2.12.*",
     "doctrine/cache": "1.8.*",
     "monolog/monolog": "2.0.*",
     "resque/php-resque": "1.3.*",
