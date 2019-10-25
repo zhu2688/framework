@@ -30,4 +30,5 @@ composer require zhu2688/framework
 * [mandrill/mandrill](https://bitbucket.org/mailchimp/mandrill-api-php/overview) 使用mailchimp发送邮件
 * [gregwar/image](https://github.com/Gregwar/Image) Gregwar's 图片处理库
 * [league/flysystem](https://github.com/thephpleague/flysystem)强大的文件系统抽象层flysystem
+* [casbin/casbin](https://github.com/php-casbin/php-casbin)一个强大的、高效的访问控制框架
 * [filp/whoops](https://github.com/filp/whoops) 错误&异常 诊断组件
