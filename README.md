@@ -29,4 +29,5 @@ composer require zhu2688/framework
 * [maxmind-db/reader](https://github.com/maxmind/MaxMind-DB-Reader-php) php读取maxMind DB库
 * [mandrill/mandrill](https://bitbucket.org/mailchimp/mandrill-api-php/overview) 使用mailchimp发送邮件
 * [gregwar/image](https://github.com/Gregwar/Image) Gregwar's 图片处理库
+* [league/flysystem](https://github.com/thephpleague/flysystem)强大的文件系统抽象层flysystem
 * [filp/whoops](https://github.com/filp/whoops) 错误&异常 诊断组件
