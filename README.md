@@ -22,7 +22,8 @@ composer require zhu2688/framework
 * [twig](https://github.com/twigphp/Twig) 模板引擎
 * [doctrine/Cache](https://github.com/doctrine/cache) 缓存库
 * [monolog/monolog](https://github.com/Seldaek/monolog) 日志库
-* [resque/php-resque](https://github.com/resque/php-resque) 轻量消息队列
+* [resque/php-resque](https://github.com/resque/php-resque) 轻量消息队列 
+* [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque) 消息队列 (1.0.12 之后使用)
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
 * [nesbot/carbon](https://github.com/briannesbitt/Carbon)时间处理类
 * [lodash-php/lodash-php](https://github.com/lodash-php/lodash-php) php7的工具库(模仿javascript的Loadsh)
