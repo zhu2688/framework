@@ -19,7 +19,8 @@
     "gregwar/image": "2.0.*",
     "league/flysystem": "1.0.*",
     "casbin/casbin": "2.1.*",
-    "filp/whoops": "2.5.*"
+    "filp/whoops": "2.5.*",
+    "phpmailer/phpmailer": "6.1.*"
   },
   "require-dev": {
     "filp/whoops": "2.5.*"
@@ -32,7 +33,9 @@
     }
   ],
   "autoload": {
-    "psr-4": { "Soeasy\\Demo\\": "src" }
+    "psr-4": {
+      "Soeasy\\Demo\\": "src"
+    }
   },
   "minimum-stability": "stable"
 }
