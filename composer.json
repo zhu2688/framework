@@ -9,7 +9,7 @@
     "catfan/medoo": "1.7.*",
     "twig/twig": "3.1.*",
     "doctrine/cache": "1.10.*",
-    "monolog/monolog": "2.0.*",
+    "monolog/monolog": "1.26.*",
     "mjphaynes/php-resque": "2.2.*",
     "vlucas/valitron": "1.4.*",
     "nesbot/carbon": "2.45.*",
