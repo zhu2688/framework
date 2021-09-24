@@ -13,14 +13,13 @@
     "mjphaynes/php-resque": "2.2.*",
     "vlucas/valitron": "1.4.*",
     "nesbot/carbon": "2.49.*",
-    "maxmind-db/reader": "1.10.0",
+    "maxmind-db/reader": "1.10.*",
     "mailchimp/transactional": "1.0.*",
     "gregwar/image": "2.1.*",
     "league/flysystem": "2.3.*",
     "casbin/casbin": "3.3.*",
     "filp/whoops": "2.12.*",
-    "phpmailer/phpmailer": "6.5.*",
-    "qiniu/php-sdk": "^7.2"
+    "phpmailer/phpmailer": "6.5.*"
   },
   "require-dev": {
     "filp/whoops": "2.12.*"
