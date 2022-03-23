@@ -15,7 +15,7 @@ composer require zhu2688/framework
 ```
 
 ## 库说明
-* 此分支是php 7.2版本  [php5 详见 0.x分支](https://github.com/zhu2688/framework/tree/0.x)
+* 此分支是php 7.4以上版本  [php5 详见 0.x分支](https://github.com/zhu2688/framework/tree/0.x)
 
 * [guzzle](https://github.com/guzzle/guzzle) HTTP 请求库
 * [Medoo](https://github.com/catfan/Medoo) 简单数据库

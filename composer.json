@@ -6,20 +6,20 @@
     "php": ">=7.3.0",
     "ext-yaf": "*",
     "guzzlehttp/guzzle": "7.2.*",
-    "catfan/medoo": "2.0.*",
+    "catfan/medoo": "2.1.*",
     "twig/twig": "3.3.*",
     "doctrine/cache": "1.11.*",
-    "monolog/monolog": "1.26.*",
+    "monolog/monolog": "1.*",
     "mjphaynes/php-resque": "2.2.*",
     "vlucas/valitron": "1.4.*",
-    "nesbot/carbon": "2.49.*",
-    "maxmind-db/reader": "1.10.*",
+    "nesbot/carbon": "2.54.*",
+    "maxmind-db/reader": "1.11.*",
     "mailchimp/transactional": "1.0.*",
     "gregwar/image": "2.1.*",
-    "league/flysystem": "2.3.*",
+    "league/flysystem": "2.4.*",
     "casbin/casbin": "3.3.*",
     "filp/whoops": "2.12.*",
-    "phpmailer/phpmailer": "6.5.*"
+    "phpmailer/phpmailer": "6.6.*"
   },
   "require-dev": {
     "filp/whoops": "2.12.*"
