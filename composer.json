@@ -3,7 +3,7 @@
   "description": "composer publish demo",
   "type": "library",
   "require": {
-    "php": ">=7.3.0",
+    "php": ">=7.4.0",
     "ext-yaf": "*",
     "guzzlehttp/guzzle": "7.2.*",
     "catfan/medoo": "2.1.*",
@@ -12,17 +12,20 @@
     "monolog/monolog": "1.*",
     "mjphaynes/php-resque": "2.2.*",
     "vlucas/valitron": "1.4.*",
-    "nesbot/carbon": "2.54.*",
+    "nesbot/carbon": "2.57.*",
     "maxmind-db/reader": "1.11.*",
     "mailchimp/transactional": "1.0.*",
     "gregwar/image": "2.1.*",
     "league/flysystem": "2.4.*",
     "casbin/casbin": "3.3.*",
-    "filp/whoops": "2.12.*",
-    "phpmailer/phpmailer": "6.6.*"
+    "filp/whoops": "2.14.*",
+    "phpmailer/phpmailer": "6.6.*",
+    "spomky-labs/otphp": "10.0.*",
+    "endroid/qr-code":"4.4.*",
+    "ramsey/uuid": "^4.2"
   },
   "require-dev": {
-    "filp/whoops": "2.12.*"
+    "filp/whoops": "2.14.*"
   },
   "license": "MIT",
   "authors": [
