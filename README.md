@@ -23,10 +23,12 @@ composer require zhu2688/framework
 * [doctrine/Cache](https://github.com/doctrine/cache) 缓存库
 * [monolog/monolog](https://github.com/Seldaek/monolog) 日志库
 * [resque/php-resque](https://github.com/resque/php-resque) 轻量消息队列 
-* [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque) 消息队列 (1.0.12 之后使用)
+* [mjphaynes/php-resque](https://github.com/mjphaynes/php-resque) 消息队列
 * [vlucas/valitron](https://github.com/vlucas/valitron) 无依赖简单验证
 * [nesbot/carbon](https://github.com/briannesbitt/Carbon)时间处理类
-* [lodash-php/lodash-php](https://github.com/lodash-php/lodash-php) php7的工具库(模仿javascript的Loadsh)
+* [endroid/qr-code](https://github.com/endroid/qr-code)最流行的生成 QR 二维码的库
+* [Spomky-Labs/otphp](https://github.com/Spomky-Labs/otphp) 用于根据 （HOTP算法）和 （TOTP算法）生成一次性密码 该库与可用于Android和iPhone的Google Authenticator应用程序兼容。
+* [ramsey/uuid](https://github.com/ramsey/uuid) PHP的通用UUID库。
 * [maxmind-db/reader](https://github.com/maxmind/MaxMind-DB-Reader-php) php读取maxMind DB库
 * [mandrill/mandrill](https://bitbucket.org/mailchimp/mandrill-api-php/overview) 使用mailchimp发送邮件
 * [gregwar/image](https://github.com/Gregwar/Image) Gregwar's 图片处理库
