@@ -16,6 +16,7 @@
     "maxmind-db/reader": "1.11.*",
     "mailchimp/transactional": "1.0.*",
     "gregwar/image": "2.1.*",
+    "gregwar/captcha": "1.1.*",
     "league/flysystem": "2.4.*",
     "casbin/casbin": "3.3.*",
     "filp/whoops": "2.14.*",
