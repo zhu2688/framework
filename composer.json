@@ -5,7 +5,7 @@
   "require": {
     "php": ">=7.4.0",
     "ext-yaf": "*",
-    "guzzlehttp/guzzle": "7.2.*",
+    "guzzlehttp/guzzle": "7.4.*",
     "catfan/medoo": "2.1.*",
     "twig/twig": "3.3.*",
     "doctrine/cache": "1.11.*",
