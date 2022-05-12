@@ -12,6 +12,7 @@
     "monolog/monolog": "1.*",
     "mjphaynes/php-resque": "2.2.*",
     "vlucas/valitron": "1.4.*",
+    "vlucas/phpdotenv": "^5.4",
     "nesbot/carbon": "2.57.*",
     "geoip2/geoip2": "^2.12",
     "mailchimp/transactional": "1.0.*",
