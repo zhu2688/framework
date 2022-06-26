@@ -9,6 +9,7 @@
     "catfan/medoo": "2.1.*",
     "twig/twig": "3.3.*",
     "doctrine/cache": "1.11.*",
+    "phpfastcache/phpfastcache": "8.1.*",
     "monolog/monolog": "1.*",
     "mjphaynes/php-resque": "2.2.*",
     "vlucas/valitron": "1.4.*",
